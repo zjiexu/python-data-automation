@@ -14,5 +14,5 @@ A simple Python script for automating CSV data cleaning tasks.
    python script.py
 3. The cleaned file will be saved as output_clean.csv
 
-Use case
-Ideal for repetitive data processing and automation tasks.
+## Use case
+Useful for cleaning CSV data before importing into databases, spreadsheets, or other systems where consistent formatting is required.
